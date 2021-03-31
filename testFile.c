@@ -1,7 +1,6 @@
 // Simple program to swap two numbers
 // Example from https://www.programiz.com/c-programming/examples/swapping
 
-
 #include<stdio.h>
 int main() {
       double first, second, temp;
