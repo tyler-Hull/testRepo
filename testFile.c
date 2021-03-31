@@ -5,10 +5,11 @@
 #include<stdio.h>
 int main() {
       double first, second, temp;
-      printf("Enter first number: ");
+      printf("Please enter first number: ");
       scanf("%lf", &first);
-      printf("Enter second number: ");
+      printf("Please enter second number: ");
       scanf("%lf", &second);
+      printf("Thank you so much!");
 
       // Value of first is assigned to temp
       temp = first;
